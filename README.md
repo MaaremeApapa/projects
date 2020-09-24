@@ -1,4 +1,4 @@
-# projects
+# weather application project
 Repo for weather app 
 ## Weather Application
 
